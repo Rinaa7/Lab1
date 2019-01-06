@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="spring-web-4.3.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-web-4.3.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-framework-4.3.9.RELEASE/docs/javadoc-api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-boot-helloworld/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-boot-insecure/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-aspectj/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-concurrency/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-data/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-form/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-hellojs/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-hellomvc/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-helloworld/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-inmemory/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-jdbc/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-ldap/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-messages/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-openid/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-preauth/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-rememberme/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-javaconfig-x509/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-aspectj/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-cassample/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-contacts/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-dms/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-gae/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-jaas/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-openid/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-servletapi/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/Программирование/Библиотеки/спринг/spring-security-4.2.3.RELEASE/samples/spring-security-samples-xml-tutorial/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
